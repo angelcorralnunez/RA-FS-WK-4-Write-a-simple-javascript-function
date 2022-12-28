@@ -14,3 +14,4 @@ function myInfo(name, height, country) {
     console.log(name + '' + height + '' + country);
 }
 myInfo('Angelena','5ft 4in','USA');
+
