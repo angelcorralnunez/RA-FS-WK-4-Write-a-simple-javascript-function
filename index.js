@@ -10,9 +10,7 @@
 
 5. Push your codes to GitHub*/
 
-let stringArray = ["Angelena", "5ft 4in", "USA"];  
-  
-stringArray.forEach(function(str) {  
-    console.log(str);  
-    alert("Angelena, 5ft 4in, USA")
-}); 
+function myInfo(name, height, country) {
+    console.log(name + '' + height + '' + country);
+}
+myInfo('Angelena','5ft 4in','USA');
