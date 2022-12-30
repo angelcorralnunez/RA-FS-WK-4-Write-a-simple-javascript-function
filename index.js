@@ -15,5 +15,5 @@ function myInfo(name, height, country) {
 }
 myInfo('Angelena','5ft 4in','USA');
 
-alert(Test!);
+alert('Angelena, 5ft 4in, USA');
 
