@@ -11,10 +11,11 @@
 5. Push your codes to GitHub*/
 
 function myInfo(name, height, country) {
-    console.log('name' + '' + 'height' + '' + 'country');
+
+    alert(name + '' + height + '' + country);
 }
 myInfo('Angelena','5ft 4in','USA');
 
-alert('Angelena, 5ft 4in, USA');
+
 
 
